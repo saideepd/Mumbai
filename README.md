@@ -17,3 +17,9 @@ Developers of this website are:
  * __Saideep Dicholkar__
  * __Chandan Choudhary__
  * __Adil Khatri__
+
+<br />
+You can visit the page here:
+
+- https://saideepd.github.io/Mumbai
+- https://mumbai-tourism.netlify.app
